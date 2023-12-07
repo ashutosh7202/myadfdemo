@@ -1,0 +1,9 @@
+{
+	"name": "ash1-data-factory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ed7889ed-d958-4e75-a3d0-26d61374a8c0",
+		"tenantId": "48ba02a7-2af6-448f-80cc-517da86c7b13"
+	}
+}
